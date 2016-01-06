@@ -21,7 +21,6 @@ close $fd;
 set types {
 ACLANT
 ACM
-format_linkout
 AGU
 AIP
 APS
